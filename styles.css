@@ -1,0 +1,26 @@
+.container{
+  background-color: lightgray;
+  margin-top: 30px;
+  margin-left: 40px;
+  margin-right: 40px;
+  padding-top: 5px;
+  padding-left: 20px;
+}
+
+#conBox{
+  width: 80%;
+  height: 50px;
+  font-size: 15px;
+  border-top: 1px solid black;
+  margin-bottom: 10px;
+  text-indent: 10px;
+  padding-top: 0px;
+}
+
+.btns button{
+  color: black; 
+  padding: 10px;
+  font-size: 15px;
+  margin-bottom: 20px;
+  margin-right: 5px;
+}
